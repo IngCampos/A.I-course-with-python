@@ -6,6 +6,4 @@ for i in range(10):
 if x == 1.0:
     print(f'x = {x}')
 else:
-    p rint(f'x != {x}')
-    
-
+    print(f'x != {x}')
